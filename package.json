@@ -22,7 +22,7 @@
     "lodash": "4.17.21",
     "md5": "2.3.0",
     "moment": "2.29.1",
-    "nuxt": "2.15.1",
+    "nuxt": "2.15.2",
     "nuxt-vuex-localstorage": "1.2.7",
     "sass": "1.32.8",
     "sass-loader": "10.1.1",
@@ -31,7 +31,7 @@
     "xss": "1.0.8"
   },
   "devDependencies": {
-    "@nuxt/types": "2.15.1",
+    "@nuxt/types": "2.15.2",
     "@nuxt/typescript-build": "2.0.5",
     "@nuxtjs/eslint-config": "5.0.0",
     "@nuxtjs/eslint-config-typescript": "5.0.0",
