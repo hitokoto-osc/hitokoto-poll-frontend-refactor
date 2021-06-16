@@ -49,7 +49,7 @@
     "eslint-plugin-prettier": "^3.3.1",
     "husky": "^4.1.1",
     "lint-staged": "^10.5.4",
-    "postcss": "^7.0.32",
+    "postcss": "^7.0.36",
     "prettier": "^2.2.1",
     "stylelint": "^13.11.0",
     "stylelint-config-rational-order": "^0.1.2",
